@@ -1,5 +1,11 @@
 # hive_chart_animation
 
+
+
+
+https://github.com/iamdiosilva/flutter-rive-water-chart-animation/assets/65866387/d64204d0-f74e-44a8-bc25-bd58ba5b264a
+
+
 A new Flutter project.
 
 ## Getting Started
